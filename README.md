@@ -27,10 +27,11 @@ curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | 
 ### Langkah-langkah
 
 1.  **Clone Repository**
-    ```bash
-    git clone https://github.com/Alvacodee/Data-Analysis-Probability-and-Statistics.git
-    cd algeo2-eigenpustaka
-    ```
+
+```bash
+git clone https://github.com/Alvacodee/Data-Analysis-Probability-and-Statistics.git
+cd algeo2-eigenpustaka
+```
 2. **UV sync**
 
 Pastikan Python dan `uv` sudah terinstal.
