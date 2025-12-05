@@ -49,6 +49,5 @@ uv run main.py
 
 ## Kontributor
 
-1. **Dzakwan Muhammad K. P. P.** (13524145) - Back End and Document
-2. **Zahran Alvan P. W.** (13524124) - Front End and Document
-3. **Muh Hartawan Haidir** (13524147) - Front End and Document
+1. **Yusuf Faishal Listyardi** (13524014)
+2. **Zahran Alvan P. W.** (13524124)
