@@ -32,6 +32,7 @@ curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | 
     cd algeo2-eigenpustaka
     ```
 2. **UV sync**
+
 Pastikan Python dan `uv` sudah terinstal.
 
 ```bash
