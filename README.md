@@ -30,7 +30,7 @@ curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | 
 
 ```bash
 git clone https://github.com/Alvacodee/Data-Analysis-Probability-and-Statistics.git
-cd algeo2-eigenpustaka
+cd Probability and Statistics\Data-Analysis-Probability-and-Statistics
 ```
 2. **UV sync**
 
